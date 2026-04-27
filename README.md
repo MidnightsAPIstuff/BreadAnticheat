@@ -15,6 +15,9 @@
   - Silent aim / aimbot
   - Triggerbot / auto-clicker
 
+  ### Why is it closed source?
+  **We would like to keep it closed source so nobody can make fake backdoored versions.**
+
 ## Directory
 
 ```
